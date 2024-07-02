@@ -1,6 +1,6 @@
 <!-- PAPER TITLE -->
 
-# [CVPR '24] Distortion-Aware Adversarial Attacks on Bounding Boxes of Object Detectors
+# [ACCV '24] Distortion-Aware Adversarial Attacks on Bounding Boxes of Object Detectors
 
 <!-- TABLE OF CONTENTS -->
 
