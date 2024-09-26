@@ -1,6 +1,6 @@
 <!-- PAPER TITLE -->
 
-# [ACCV '24] Distortion-Aware Adversarial Attacks on Bounding Boxes of Object Detectors
+# [VISAPP-2025] Distortion-Aware Adversarial Attacks on Bounding Boxes of Object Detectors
 
 <!-- TABLE OF CONTENTS -->
 
